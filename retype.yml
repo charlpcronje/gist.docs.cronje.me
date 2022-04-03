@@ -1,0 +1,15 @@
+input: src
+output: public
+url: https:/gist.docs.devserv.me
+branding:
+  title: DEVserv.ME GitHub Gist
+  label: gist
+links:
+- text: DEVserv.ME Docs
+  link: https://docs.devserv.me
+- text: Charl Cronje
+  link: https://charl-cv.devserv.me
+- text: Talk to me
+  link: https://chat.devserv.me
+footer:
+  copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
