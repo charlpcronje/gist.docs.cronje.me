@@ -12,3 +12,8 @@
 
 - This repo will become a sub-module of docs.devserv.me.
 - Go to [./src/README.md](./src/README.md) for the root of this repo
+
+simple cron running script for a collection of sites which may or may not exist...
+
+
+ 
