@@ -1,6 +1,6 @@
 input: src
 output: public
-url: https:/gist.docs.devserv.me
+url: https://gist.docs.devserv.me
 branding:
   title: DEVserv.ME GitHub Gist
   label: gist

@@ -22,7 +22,7 @@ tags: [github,gist,scripts,snippets,js,bash,php,sql,log,cron,linux,automation]
 
 ## Cron Tab
 
-:::code source="cron-sites-prod" range="4-10" title="cron-sites-prod" :::
+:::code source="./cron/cron-sites-pro.sh" range="4-10" title="cron-sites-prod" :::
 
 ## Dev - PHP
 
