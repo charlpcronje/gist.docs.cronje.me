@@ -1,15 +1,15 @@
 input: src
 output: public
-url: https://gist.docs.devserv.me
+url: https://gist.docs.cronje.me
 branding:
   title: DEVserv.ME GitHub Gist
   label: gist
 links:
-- text: DEVserv.ME Docs
-  link: https://docs.devserv.me
+- text: CRONJE.me DOCS 
+  link: https://docs.cronje.me
 - text: Charl Cronje
-  link: https://charl-cv.devserv.me
-- text: Talk to me
-  link: https://chat.devserv.me
+  link: https://charl.cronje.me
+- text: DEVserv.ME Dashboard
+  link: https://nav.cronje.me
 footer:
   copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
