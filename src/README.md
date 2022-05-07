@@ -1,12 +1,12 @@
 ---
-Title: GitHub Gist | DEVserv.ME
+Title: GitHub Gist | CRONje.ME
 label: GitHub Gist
 order: 200
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
+    email: charl@CRONje.ME
+    link: https://charl-cv.CRONje.ME
+    avatar: https://assets.CRONje.ME/avatars/darker.jpg
 tags: [github,gist,scripts,snippets,js,bash,php,sql,log,cron,linux,automation]
 ---
 

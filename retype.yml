@@ -2,14 +2,14 @@ input: src
 output: public
 url: https://gist.docs.cronje.me
 branding:
-  title: DEVserv.ME GitHub Gist
+  title: CRONje.ME GitHub Gist
   label: gist
 links:
 - text: CRONJE.me DOCS 
   link: https://docs.cronje.me
 - text: Charl Cronje
   link: https://charl.cronje.me
-- text: DEVserv.ME Dashboard
+- text: CRONje.ME Dashboard
   link: https://nav.cronje.me
 footer:
   copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
