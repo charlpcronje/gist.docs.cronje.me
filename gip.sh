@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z $1 ]; then
-    echo "Please specify the new repo's remote url, example: git@github.com:charlpcronje/dev.docs.CRONje.ME.git";
+    echo "Please specify the new repo's remote url, example: git@github.com:charlpcronje/dev.docs.devserv.me.git";
     break;
     exit;
 else
