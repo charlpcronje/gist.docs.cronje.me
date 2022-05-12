@@ -5,8 +5,8 @@ order: 200
 authors:
   - name: Charl Cronje
     email: charl@CRONje.ME
-    link: https://charl-cv.CRONje.ME
-    avatar: https://assets.CRONje.ME/avatars/darker.jpg
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darker.jpg
 tags: [github,gist,scripts,snippets,js,bash,php,sql,log,cron,linux,automation]
 ---
 

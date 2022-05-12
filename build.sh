@@ -1,1 +1,1 @@
-retype build --host tips.docs.CRONje.ME
+retype build --host tip.docs.cronje.me
