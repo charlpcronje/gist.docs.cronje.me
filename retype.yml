@@ -4,6 +4,7 @@ url: https://gist.docs.cronje.me
 branding:
   title: CRONje.ME GitHub Gist
   label: gist
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
