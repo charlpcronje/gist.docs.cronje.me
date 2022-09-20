@@ -2,7 +2,7 @@ input: src
 output: public
 url: https://gist.docs.cronje.me
 branding:
-  title: CRONje.ME GitHub Gist
+  title: CRONje.ME | GitHub Gist
   label: gist
 favicon: ./favicon.png
 links:
